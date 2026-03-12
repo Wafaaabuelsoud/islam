@@ -15,5 +15,11 @@ static const String leftcorner="assets/images/left_corner.png";
 static const String rightcorner="assets/images/right_corner.png";
 static const String hadethitembg="assets/images/HadithCardBackGround .png";
 static const String hadethmosque="assets/images/Mosque-02 2 (1).png";
+static const String back_quran="assets/images/Background.png";
+static const String mostrecetimg="assets/images/mostrecentimg.png";
+static const String suranumber="assets/images/suranumber.svg";
+static const String quranleftcorner="assets/images/img_left_corner.png";
+static const String quranrightcorner="assets/images/img_right_corner.png";
+static const String quranmosque="assets/images/img_bottom_decoration.png";
 
 }
