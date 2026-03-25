@@ -21,5 +21,8 @@ static const String suranumber="assets/images/suranumber.svg";
 static const String quranleftcorner="assets/images/img_left_corner.png";
 static const String quranrightcorner="assets/images/img_right_corner.png";
 static const String quranmosque="assets/images/img_bottom_decoration.png";
+static const String sebhabg="assets/images/sebhabg.png";
+static const String sebhahead="assets/images/sebhahead.png";
+static const String sebhabody="assets/images/SebhaBody 1.png";
 
 }
